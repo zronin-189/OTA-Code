@@ -1,0 +1,3 @@
+## Component manifest for ESP32-S3-N16R8 OTA project
+dependencies:
+  espressif/cjson: "^1.7.18"
