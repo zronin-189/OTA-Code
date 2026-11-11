@@ -1,10 +1,10 @@
 {
   "version": "1.1.0",
   "name": "firmware_wifi_scan_v1.1.0.bin",
-  "url": "https://iicmktzpcwbvengvabfq.supabase.co/storage/v1/object/public/Firmware%20OTA/firmware_wifi_scan_v1.1.0.bin",
+  "url": "https://raw.githubusercontent.com/zronin-189/OTA-Code/main/firmware_binaries/firmware_wifi_scan_v1.1.0.bin",
   "size": 1037264,
   "sha256": "4e27308c29964699845a67b5ed82e4e2c38b5a30a112e5703d30ce359f6e13a1",
-  "signature": "304502204297764ad0fe0ed7ef81892fed8b3c78cee7ac707424c574aed10ea7e89065b302210089502347bf5db4d08318b00125429766eed025b717b084f6220b9985b57eca4f",
-  "notes": "Firmware v1.1.0 (firmware_wifi_scan_v1.1.0.bin) signed with ECDSA P-256",
-  "created_at": "2026-10-28T16:45:15.381469+00:00"
+  "signature": "304502200f718539149c89276fbf5683d3d942e59ac6aacc137d53dffdcab2cea19dcfeb022100c01a0f78442d493c682ea44e903ee2d014c6469ea8db4894781c833c38d8c42b",
+  "notes": "Firmware v1.1.0 (WiFi Scan) host tren GitHub",
+  "created_at": "2026-11-11T06:59:31.335247+00:00"
 }

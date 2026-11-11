@@ -5,13 +5,13 @@
 // =============================================================================
 
 // --- 1. CẤU HÌNH WI-FI ---
-#define OTA_WIFI_SSID           "DUY DAT"
-#define OTA_WIFI_PASS           "12092005"
+#define OTA_WIFI_SSID           "TTHocLieuT1"
+#define OTA_WIFI_PASS           "hoclieut1"
 
 // --- 2. CẤU HÌNH SUPABASE STORAGE / CLOUD URL ---
 // Thay thế bằng đường dẫn public trực tiếp tới file version.json trên Supabase Storage của bạn.
 // Ví dụ: "https://abcdefghijklmnopqrst.supabase.co/storage/v1/object/public/firmware/version.json"
-#define OTA_MANIFEST_URL        "https://zronin-189.github.io/ESP-OTA-Test/version.json"
+#define OTA_MANIFEST_URL        "https://raw.githubusercontent.com/zronin-189/OTA-Code/main/firmware_binaries/version.json"
 
 // Ánh xạ tương thích mã nguồn
 #undef CONFIG_OTA_WIFI_SSID
